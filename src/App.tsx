@@ -1,8 +1,11 @@
 import React from 'react';
 
+/* Importaciones propias */
+import {Navigations} from './routes/Navigations';
+
 function App() {
     return (
-        <h1>App</h1>
+        <Navigations/>
     );
 }
 
